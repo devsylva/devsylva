@@ -4,7 +4,7 @@
 
 # Hey there! I'm Ejike Sylva 👋
 
-🌟 Aspiring Backend Maestro | 💡 Problem Solver | ☕ Coffee Aficionado
+🌟 Backend Maestro | 💡 Problem Solver | ☕ Coffee Aficionado
 
 Welcome to my world of backend sorcery, where I conjure elegant solutions to power the digital realm. Join me as I shape bytes into dreams! 🚀
 
