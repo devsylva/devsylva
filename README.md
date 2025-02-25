@@ -1,46 +1,51 @@
 <div align="center">
-  <img src="https://github.com/devsylva/devsylva/raw/main/assets/header.gif" alt="Hello, I'm Ejike Sylva - Backend Developer" />
+  <img src="https://github.com/devsylva/devsylva/raw/main/assets/header.gif" alt="Ejike Sylva - Software Engineer" width="600"/>
+  <h1>Hi, I’m Ejike Sylva</h1>
+  <p>Software Engineer | Backend Development | Software Architecture | Cloud Engineering</p>
 </div>
 
-# Hey there! I'm Ejike Sylva 👋
+---
 
-🌟 Backend Maestro | 💡 Problem Solver | ☕ Coffee Aficionado
+### About Me
 
-Welcome to my world of backend sorcery, where I conjure elegant solutions to power the digital realm. Join me as I shape bytes into dreams! 🚀
+I’m a software engineer with a focus on designing and building scalable backend systems, robust architectures, and cloud-native solutions. I thrive on solving complex problems and optimizing performance at scale.
 
-## About Me
+- **Currently Learning**: Go for high-performance systems.  
+- **Specializing In**: Backend development, software architecture, cloud engineering.  
+- **Ask Me About**: System design, microservices, cloud infrastructure, or scalability.  
+- **Random Fact**: I’ve optimized systems to handle millions of requests without breaking a sweat.  
 
-🔭 Currently learning Golang [need for speed]. \
-🌱 Exploring Javascript/Python/Django/Express/Gin/ to create digital wonders. \
-💬 Ask me about backend architecture, databases, or unleashing the full potential of APIs. \
-⚡ Fun fact: I believe in the magic of code and the power of a perfectly brewed cup of coffee!
+---
 
-## Tech Stack
+### Tech Stack
 
-Languages: Python, Go, Javascript \
-Frameworks: Express, Django, Gin \
-Databases: PostgreSQL, MongoDB \
-Tools: Git, Docker, Kubernetes \
-APIs: REST, GraphQL
+- **Languages**: Python, Go, JavaScript  
+- **Frameworks**: Django, Express, Gin  
+- **Databases**: PostgreSQL, MongoDB  
+- **Cloud**: AWS, GCP, Azure  
+- **Tools**: Git, Docker, Kubernetes, Terraform  
+- **APIs**: REST, GraphQL  
 
+---
 
-## Let's Connect
+### Connect
 
-Join my journey into the digital unknown:
+- [LinkedIn](https://www.linkedin.com/in/ejike-sylva-58147a212/)  
+- [Twitter](https://twitter.com/devSylva_)  
 
-- [LinkedIn]([Your LinkedIn Profile Link](https://www.linkedin.com/in/ejike-sylva-58147a212/))
-- [Twitter]([Your Twitter Profile Link](https://twitter.com/devSylva_))
+---
 
-## GitHub Stats
+### GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devsylva&show_icons=true&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devsylva&show_icons=true&theme=dark" alt="Ejike's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsylva&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
-## Top Languages
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devsylva&layout=compact&theme=dark)
+### Let’s Collaborate
 
-## Let's Craft Magic Together
+I’m passionate about crafting backend systems, designing resilient architectures, and leveraging the cloud to deliver scalable solutions. Got a challenging project or idea? Let’s connect and build it right.
 
-I'm always excited about weaving intricate backend spells. Whether you're on a quest for knowledge or seeking assistance, let's forge greatness together!
-
-Thanks for delving into my world of code and wonders. Stay enchanted! 🧙‍♂️
+*Thanks for visiting my profile.*
