@@ -13,7 +13,6 @@ I’m a software engineer with a focus on designing and building scalable backen
 - **Currently Learning**: Go for high-performance systems.  
 - **Specializing In**: Backend development, software architecture, cloud engineering.  
 - **Ask Me About**: System design, microservices, cloud infrastructure, or scalability.  
-- **Random Fact**: I’ve optimized systems to handle millions of requests without breaking a sweat.  
 
 ---
 
