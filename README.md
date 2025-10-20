@@ -24,8 +24,7 @@ Currently helping companies/startups design cloud-powered backends and optimize 
 - **Languages**: Python, Go, JavaScript  
 - **Frameworks**: Django, Express, Gin  
 - **Databases**: PostgreSQL, MongoDB  
-- **Cloud**: AWS, GCP, Azure  
-- **Tools**: Git, Docker, Kubernetes, Terraform  
+- **Cloud**: AWS, GCP, Azure   
 - **APIs**: REST, GraphQL  
 
 ---
