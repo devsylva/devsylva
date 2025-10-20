@@ -8,11 +8,14 @@
 
 ### About Me
 
-I’m a software engineer with a focus on designing and building scalable backend systems, robust architectures, and cloud-native solutions. I thrive on solving complex problems and optimizing performance at scale.
+I'm a Software Engineer who builds scalable systems and solves complex problems through clean code.
+I thrive at the intersection of backend architecture, cloud computing, automation, and AI.
 
-- **Currently Learning**: Go for high-performance systems.  
-- **Specializing In**: Backend development, software architecture, cloud engineering.  
-- **Ask Me About**: System design, microservices, cloud infrastructure, or scalability.  
+Currently helping companies/startups design cloud-powered backends and optimize performance.
+
+* 😄 Pronouns: He/Him
+* 💬 Ask me about Backend Development, Cloud Architecture, and System Design
+* 🚀 Always learning, always building 
 
 ---
 
